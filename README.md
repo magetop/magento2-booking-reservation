@@ -27,8 +27,8 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-reservation-extension.html
-- Frontend Demo : https://magento2.demo.magetop.com/booking/
-- Backend demo : https://magento2.demo.magetop.com/booking/admin
+- Frontend Demo : https://demo-booking.magetop.com/bookingonline
+- Backend demo : https://demo-booking.magetop.com/admin
 
 ## Support & Contact info
 

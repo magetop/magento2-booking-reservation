@@ -1,4 +1,4 @@
-# Magento 2 Booking & Reservation Extension by MageTop
+# Magento 2 Booking & Reservation Extension by Magetop
 
 **Magento 2 Booking & Reservation Extension** by Magetop is a multi-purpose booking plugin that cuts away bloated features and delivers a streamlined booking system. It is built with many kinds of businesses in mind. It can be adapted for customer scheduling in beauty salons, patient scheduling health and wellness businesses, training scheduling in gyms and yoga studios, scheduling classes and tutors in education settings, bookings and reservations, and so on. 
 

@@ -24,13 +24,13 @@
 - Easy manage Manage products, orders, mails, reviews ...
 - Integrated Payment Gateway.
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-booking-reservation-extension.html
 - Frontend demo : https://demo-booking.magetop.com/bookingonline
 - Backend demo : https://demo-booking.magetop.com/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
